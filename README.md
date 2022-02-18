@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+- try other semi-supervised learning strategies (mean teacher, mean predictions) and data-augmentations (cut-mix)
+- can we do better in selecting the initially annotated samples for better performance (like in active learning)?
+
+----------------------
 # FixMatch
 This is an unofficial PyTorch implementation of [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685).
 The official Tensorflow implementation is [here](https://github.com/google-research/fixmatch).
